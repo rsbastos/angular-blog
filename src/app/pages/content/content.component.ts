@@ -8,9 +8,9 @@ import {dataFake} from '../../data/dataFake';
   styleUrls: ['./content.component.css']
 })
 export class ContentComponent implements OnInit {
-  photoCover:string = "https://www.unfe.org/wp-content/uploads/2019/04/SM-placeholder.png"
-  contentTitle:string = "NEWS NEWS NEWS NEWS"
-  contentDescription:string = "DESCRIPTION DIV"
+  photoCover:string = ""
+  contentTitle:string = ""
+  contentDescription:string = ""
   private id:string | null = "0"
 
   constructor(
