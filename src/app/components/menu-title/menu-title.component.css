@@ -1,4 +1,12 @@
+.container__menu-title {
+    background-color: black;
+    background-image: url('https://wallpaperset.com/w/full/3/8/2/200785.jpg');
+    background-size: contain;   
+    background-repeat: no-repeat;
+}
+
 .container__menu-title > h1 {
+    background: none;
     margin-top: 15px;
     margin-bottom: 15px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -15,6 +23,7 @@
 }
 
 .container__menu-title > p {
+    background: none;
     margin-bottom: 25px;
     font-size: 25px;
 
