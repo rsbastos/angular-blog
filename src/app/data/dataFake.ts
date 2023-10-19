@@ -13,9 +13,9 @@ export const dataFake = [
     },
     {
         "id":"3",      
-        "title":"lançado novo álbum",
-        "description":"bla bla bla",
-        "photoCover":"https://files.cercomp.ufg.br/weby/up/1/o/rocknrolll.jpg?1499953983"
+        "title":"METALLICA: PARA LARS, O METAL NÃO FAZ MAIS PARTE DO MAINSTREAM",
+        "description":"O Metallica é, sem dúvida, o maior representante do Metal no mainstream. Mas para o baterista Lars Ulrich, apesar disso, o estilo como um todo não parece mais fazer parte da cultura dominante. Lars concedeu uma entrevista à revista Rolling Stone e respondeu se o mainstream entende melhor a música pesada atualmente do que em 1989. Mesmo que todos os álbuns do Metallica desde então foram referência na cultura pop e lideraram paradas de sucesso ao redor do mundo, o baterista surpreendeu em sua resposta. Metallica, AC/DC, Guns N’ Roses, KISS, Ozzy Osbourne e Iron Maiden são alguns exemplos de veteranos com os pés bem cravados dentro do mainstream. Por outro lado, ainda há uma renovação e bandas como Ghost, Gojira, Jinjer, Avenged Sevenfold, Mastodon, Greta Van Fleet, Five Finger Death Punch, Sabaton, Amon Amarth, Arch Enemy e algumas outras, em alguns casos já estão dentro do maisntream e em outros estão com suas carreiras bem encaminhadas para isso. Veja matéria original em: 'https://www.mundometalbr.com/metallica-para-lars-o-metal-nao-faz-mais-parte-do-mainstream/",
+        "photoCover":"https://i0.wp.com/www.mundometalbr.com/wp-content/uploads/2023/10/metallica-lars-ulrich.jpg?w=768&ssl=1"
     },
     {
         "id":"4",        
