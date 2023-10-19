@@ -3,3 +3,11 @@ header {
     display: flex;
     justify-content: center;
 }
+
+footer {   
+    border-top: 2px solid #333;   
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;    
+}
