@@ -3,7 +3,10 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-disclaimer',
   templateUrl: './disclaimer.component.html',
-  styleUrls: ['./disclaimer.component.css']
+  styleUrls: [
+    './disclaimer.component.css',
+    './disclaimer.responsive.component.css'    
+  ]
 })
 export class DisclaimerComponent implements OnInit {
 

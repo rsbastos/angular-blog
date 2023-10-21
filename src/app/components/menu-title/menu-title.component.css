@@ -1,4 +1,6 @@
 .container__menu-title {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;   
     background-color: black;
     background-image: url('https://wallpaperset.com/w/full/3/8/2/200785.jpg');
     background-size: contain;   
@@ -7,20 +9,18 @@
 
 .container__menu-title > h1 {
     background: none;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    
+   
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size:135px;
-    height: 140px;
+    max-height: 140px;
 
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
-.container__menu-title > hr {
-    margin-top: 20px;
-    margin-bottom: 5px;
-}
+
 
 .container__menu-title > p {
     background: none;

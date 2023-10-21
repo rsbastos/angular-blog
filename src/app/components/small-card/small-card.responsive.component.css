@@ -1,0 +1,16 @@
+@media screen and (max-width: 1350px) {
+    .small-card__title > h1 {
+        font-size: 15px;
+    }
+    .small-card__photo {  
+       min-width: 18dvw;
+       height: auto;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .small-card__photo {
+        min-width: 35dvw;
+    }
+}
+

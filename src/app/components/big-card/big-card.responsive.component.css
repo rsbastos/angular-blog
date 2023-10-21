@@ -1,0 +1,18 @@
+@media screen and (max-width: 1350px) {
+    .big-card__title > h1 > a {
+        font-size: 16px;
+    }    
+
+    .big-card__description > p {
+        font-size: 13px;
+    } 
+}
+
+@media screen and (max-width: 640px) {
+    .big-card__title > h1 > a {       
+        font-size: 5dvw;
+    }
+    .big-card__description > p {      
+        font-size: 4dvw;
+    };
+}

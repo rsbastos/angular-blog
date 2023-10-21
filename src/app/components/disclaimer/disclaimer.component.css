@@ -1,6 +1,5 @@
-.container__disclaimer {
-  
+.container__disclaimer {   
+    padding: 7px; 
+    text-align: justify;  
 
-
-    text-align: center;
 }
