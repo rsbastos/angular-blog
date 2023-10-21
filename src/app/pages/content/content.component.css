@@ -1,19 +1,21 @@
 .container__content {  
-    margin: auto;   
-    width: 90%;   
+    margin: 14px;  
+      
     margin-top: 20px;
+    margin-bottom: 100px;
 
     display: flex;
-    flex-direction: column;    
+    flex-direction: column;   
+    justify-content: center; 
     align-items: center;
 }   
 
 .content__cover > img {
     border: 5px solid rgb(144, 144, 144);
     border-radius: 10px;
-    width: 500px;
-    min-width: 500px;
-    height: 300px;
+    width: 100%;
+    
+    min-height: 230px;
 }
 
 a {
